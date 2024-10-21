@@ -1,4 +1,6 @@
-cat <<EOF >~/.local/share/applications/Google-Chrome.desktop
+sudo rm /usr/share/applications/google-chrome-stable.desktop
+
+cat <<EOF >~/.local/share/applications/chrome.desktop
 [Desktop Entry]
 Name=Google Chrome
 Comment=Access the Internet

@@ -3,7 +3,7 @@ cat <<EOF >~/.local/share/applications/Shutdown.desktop
 Name=Shutdown
 Comment=Shutdown the system
 Exec=systemctl poweroff
-Icon=system-shutdown
+Icon=system-shutdown-symbolic
 Terminal=false
 Type=Application
 Categories=System;

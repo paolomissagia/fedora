@@ -1,4 +1,6 @@
-cat <<EOF >~/.local/share/applications/Dropbox.desktop
+sudo rm /usr/share/applications/dropbox.desktop
+
+cat <<EOF >~/.local/share/applications/dropbox.desktop
 [Desktop Entry]
 Name=Dropbox
 Comment=Open Dropbox Folder
