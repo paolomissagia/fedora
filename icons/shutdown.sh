@@ -1,4 +1,4 @@
-cat <<EOF >~/.local/share/applications/Shutdown.desktop
+cat <<EOF >~/.local/share/applications/shutdown.desktop
 [Desktop Entry]
 Name=Shutdown
 Exec=systemctl poweroff
