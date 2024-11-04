@@ -1,6 +1,3 @@
-# extensions
-gnome-extensions disable background-logo@fedorahosted.org
-
 # display
 gsettings set org.gnome.settings-daemon.plugins.xsettings antialiasing rgba
 
