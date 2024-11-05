@@ -1,1 +1,1 @@
-flatpak install flathub com.todoist.Todoist
+flatpak install -y flathub com.todoist.Todoist
